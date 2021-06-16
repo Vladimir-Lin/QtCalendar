@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/QtCalendar/qtcalendar.h
+SYNCQT.HEADER_CLASSES = ../../include/QtCalendar/QtCalendar
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
